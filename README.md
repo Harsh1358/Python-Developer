@@ -4,9 +4,9 @@ This repository contains beginner-friendly Python projects that showcase basic f
 
 ---
 
-## 📁 Projects Overview
+##  Projects Overview
 
-### 1. 🧮 Simple CLI Calculator (`calculator.py`)
+### 1. Simple CLI Calculator (`calculator.py`)
 A command-line calculator that performs basic arithmetic operations: addition, subtraction, multiplication, and division.
 
 **Features:**
@@ -20,7 +20,7 @@ python calculator.py
 
 ---
 
-### 2. ✅ Task Management App (`to-do-list.py`)
+### 2. Task Management App (`to-do-list.py`)
 A simple terminal-based to-do list application that lets users manage tasks interactively.
 
 **Features:**
@@ -36,7 +36,7 @@ python to-do-list.py
 
 ---
 
-### 3. 🌦️ GUI Weather App using OpenWeatherMap API (`weatherapi.py`)
+### 3. GUI Weather App using OpenWeatherMap API (`weatherapi.py`)
 A Python GUI app that shows live weather updates using the OpenWeatherMap API and `Tkinter`.
 
 **Features:**
@@ -60,7 +60,7 @@ python weatherapi.py
 
 ---
 
-## 📦 Installation
+##  Installation
 
 If not already available, install the required Python module:
 
@@ -71,7 +71,3 @@ pip install requests
 > `Tkinter` usually comes pre-installed with Python, but if not, install it using your OS's package manager.
 
 ---
-
-## 📜 License
-
-This repository is under the [MIT License](https://opensource.org/licenses/MIT). Use freely with credit.
